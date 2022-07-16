@@ -890,6 +890,7 @@ xclip
 .collaboration{
     /* width: 100px !important; */
     height: 100px !important;
+    width: 100%;
 }
 .collaboration_box{
     width: 50% !important;
