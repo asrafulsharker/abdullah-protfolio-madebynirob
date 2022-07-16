@@ -891,9 +891,10 @@ xclip
     /* width: 100px !important; */
     height: 100px !important;
     width: 100%;
+    margin-bottom: 10px;
 }
 .collaboration_box{
-    width: 50% !important;
+    width: 30% !important;
     /* height: 100px !important; */
 }
 /*------------------------------------------------------------------
